@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\bin\Debug\ChallengeTwoRepository.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\bin\Debug\ChallengeTwoRepository.pdb
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\obj\Debug\ChallengeTwoRepository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\obj\Debug\ChallengeTwoRepository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\obj\Debug\ChallengeTwoRepository.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoRepository\obj\Debug\ChallengeTwoRepository.pdb

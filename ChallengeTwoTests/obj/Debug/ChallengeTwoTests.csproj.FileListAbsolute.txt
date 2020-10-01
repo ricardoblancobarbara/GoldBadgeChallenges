@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\ChallengeTwoTests.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\ChallengeTwoTests.pdb
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\obj\Debug\ChallengeTwoTests.pdb
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\ChallengeTwoRepository.dll
+C:\ElevenFiftyProjects\Gold_Badge_Challenges\ChallengeTwoTests\bin\Debug\ChallengeTwoRepository.pdb
